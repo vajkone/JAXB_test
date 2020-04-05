@@ -11,7 +11,7 @@ import javax.xml.bind.Unmarshaller;
 /**
  * Helper class to work with JAXB.
  */
-public class JAXBHelper {
+public class  JAXBHelper {
 
     /**
      * Serializes an object to XML. The output document is written in UTF-8 encoding.

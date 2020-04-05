@@ -9,7 +9,7 @@ import javax.xml.bind.annotation.*;
 @XmlRootElement
 @XmlAccessorType(XmlAccessType.FIELD)
 @Data
-public class Album {
+public class  Album {
 
     private String artist;
     private String title;
